@@ -7,7 +7,7 @@ The interface consists of four windows, each designed to display a different fil
 Applying filters to the camera image is done using the OpenCV library.
 #### FPS, Date and Time Display:
 The application displays fps, date and time in the right and left corners of the image.
-##### Screenshot
+#### Screenshots
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/251d263f-bfc3-417f-b385-cb1acefc5f51" alt="Screenshot 1" width="45%">
