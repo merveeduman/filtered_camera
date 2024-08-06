@@ -9,5 +9,7 @@ Applying filters to the camera image is done using the OpenCV library.
 The application displays fps, date and time in the right and left corners of the image.
 ##### Screenshot
 
-![Ekran Görüntüsü (672)](https://github.com/user-attachments/assets/251d263f-bfc3-417f-b385-cb1acefc5f51)
-![Ekran Görüntüsü (671)](https://github.com/user-attachments/assets/df6f3da1-c389-444a-8995-366890253acf)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/251d263f-bfc3-417f-b385-cb1acefc5f51" alt="Screenshot 1" width="45%">
+  <img src="https://github.com/user-attachments/assets/df6f3da1-c389-444a-8995-366890253acf" alt="Screenshot 2" width="45%">
+</p>
